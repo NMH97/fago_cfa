@@ -3,7 +3,7 @@ $(".teacher_owlcarousel").owlCarousel({
     loop: true,
     autoplay: true,
     nav: true,
-    autoplayTimeout: 1500,
+    autoplayTimeout: 2500,
     dots: true,
     autoplayHoverpause: true,
     responsive: {
@@ -25,7 +25,7 @@ $(".owl-carousel").owlCarousel({
     loop: true,
     margin: 40,
     autoplay: true,
-    autoplayTimeout: 1500,
+    autoplayTimeout: 2500,
 
     dots: true,
     responsive: {
