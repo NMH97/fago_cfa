@@ -668,7 +668,8 @@ body{
     font-size: 14px;
 }
 .feedback_slide--des--name i{
-    font-size: 14px;
+    font-size: 12px;
+    margin-right: 5px;
 }
 .item::after{
     
